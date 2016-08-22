@@ -1,0 +1,14 @@
+layout_spectrum: 0.5628990055993199
+typography_spectrum: 0.23135388176888227
+color:
+  brandStrength: 0.46316030458547175
+  lightness: 0.658596919849515
+  saturation: 0.407664377707988
+  rhythmicContrast: 0.17935653193853796
+  brandColors:
+    - '#FCBF7C'
+    - '#F98D4D'
+    - '#1F2639'
+    - '#7C585F'
+    - '#E75D36'
+name: transparent boulder
