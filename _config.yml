@@ -1,3 +1,4 @@
+layout_spectrum: 0.5628990055993199
 typography_spectrum: 0.23135388176888227
 color:
   brandStrength: 0.46316030458547175
@@ -10,6 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.5628990055993199
 name: transparent boulder
-title: When The Wheels Come Off
